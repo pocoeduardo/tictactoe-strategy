@@ -4,7 +4,7 @@ This TicTacToe Strategy Analyzer is a tool for studying and evaluating different
 
 This started as a Rust learning project. I did this project in the past with Java, but hey, the Java compiler allows you to do anything! Rust compiler rules to ensure memory safety won't allow some programs to compile. Maybe, it helps other people trying to learning Rust.
 
-**TO DOs:**
+**TODOs:**
 
 - merge equivalent configurations under reflection/rotation, so the tree os possible games become shorter
 - some variables are mixing portuguese and english, must use portuguese only... Ok, just kidding, english only!
