@@ -6,5 +6,5 @@ This started as a Rust learning project. I did this project in the past with Jav
 
 **TODOs:**
 
-- merge equivalent configurations under reflection/rotation, so the tree os possible games become shorter
+- merge equivalent configurations under reflection/rotation, so the tree of possible games become shorter
 - some variables are mixing portuguese and english, must use portuguese only... Ok, just kidding, english only!
